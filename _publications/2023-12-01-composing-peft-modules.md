@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2023-composing-peft-modules
 excerpt: 'Co-authored paper. NeurIPS 2023.'
 date: 2023-12-01
-venue: 'NeurIPS 2023'
+venue: 'NeurIPS'
 citation: 'Jinghan Zhang, Shiqi Chen, <strong>Junteng Liu</strong>, Junxian He. (2023). &quot;Composing Parameter-Efficient Modules with Arithmetic Operations.&quot; <i>NeurIPS 2023</i>.'
 ---
 
